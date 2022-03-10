@@ -18,5 +18,5 @@ Técnologias
 
 ### Como me configuro?###
 
-1 Executar o comando "mvn package" posicionado na raiz do projeto 
-2 Copiar o pacote gerado no passo 1 "target\bankpro.war" para a pasta de deploy do seu Wildfly
+* Executar o comando "mvn package" posicionado na raiz do projeto 
+* Copiar o pacote gerado no passo 1 "target\bankpro.war" para a pasta de deploy do seu Wildfly
